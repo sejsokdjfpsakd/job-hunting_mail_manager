@@ -1,0 +1,6 @@
+[submodule "mcp_server"]
+	path = mcp_server
+	url = git@github.com:sejsokdjfpsakd/job-hunting_mail_manager_mcp.git
+[submodule "rental_server"]
+	path = rental_server
+	url = git@github.com:sejsokdjfpsakd/job-hunting_mail_manager_frontend.git

@@ -1,0 +1,6 @@
+* text=auto
+*.cgi text eol=lf
+*.py text eol=lf
+*.htaccess text eol=lf
+.htaccess text eol=lf
+*.sh text eol=lf
